@@ -24,7 +24,8 @@ The application consists of two main screens:
 
 **Functionality:**
 
-- Fetch products from the API: `https://fakestoreapi.com/products`
+- Fetch products from the API:
+  https://fakestoreapi.com/products
 - Display a list/grid of products showing:
   - Product Image
   - Product Title
