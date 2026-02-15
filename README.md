@@ -20,6 +20,8 @@ The application consists of two main screens:
 
 ### 1. Catalog Screen
 
+![Catalog Screen](screen-1-home.png)
+
 **Functionality:**
 
 - Fetch products from the API: `https://fakestoreapi.com/products`
@@ -28,6 +30,9 @@ The application consists of two main screens:
   - Product Title
   - Price
 - **Add to Cart**: Each item must have a button to add it to the cart.
+
+  ![Added to cart bottom sheet](screen-1-bottom-sheet.png)
+
 - **AppBar**: Must contain a Cart icon with a **badge** showing the current number of items in the cart.
 
 **States to Handle:**
@@ -38,6 +43,8 @@ The application consists of two main screens:
 ---
 
 ### 2. Cart Screen
+
+![Cart Screen](screen-2-my-cart.png)
 
 **Functionality:**
 
@@ -83,21 +90,8 @@ The application consists of two main screens:
 
 ---
 
-## Screenshots
+## UI Preview
 
-Please send the following screenshots to be added here:
-
-- **Catalog screen design**
-  _(Place image here)_
-
-- **Cart screen design**
-  _(Place image here)_
-
-- **Add to cart interaction**
-  _(Place image here)_
-
-- **Badge counter**
-  _(Place image here)_
-
-- **Checkout section**
-  _(Place image here)_
+|             Catalog Home             |                       Add to Cart                        |             Cart Screen              |
+| :----------------------------------: | :------------------------------------------------------: | :----------------------------------: |
+| ![Catalog Screen](screen-1-home.png) | ![Added to cart bottom sheet](screen-1-bottom-sheet.png) | ![Cart Screen](screen-2-my-cart.png) |
