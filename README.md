@@ -27,6 +27,8 @@ The application consists of two main screens:
 - Fetch products from the API:
   https://fakestoreapi.com/products
 
+  API is public and requires no authentication.
+
 - Display a list/grid of products showing:
   - Product Image
   - Product Title
@@ -84,6 +86,7 @@ The application consists of two main screens:
 **Data Persistence:**
 
 - The Cart should be local (in-memory or local storage if preferred, but not API based).
+- Cart logic must be implemented locally using Provider only.
 
 ---
 
