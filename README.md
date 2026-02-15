@@ -26,13 +26,15 @@ The application consists of two main screens:
 
 - Fetch products from the API:
   https://fakestoreapi.com/products
+
 - Display a list/grid of products showing:
   - Product Image
   - Product Title
   - Price
+
 - **Add to Cart**: Each item must have a button to add it to the cart.
 
-  ![Added to cart bottom sheet](screen-1-bottom-sheet.png)
+![Added to cart bottom sheet](screen-1-bottom-sheet.png)
 
 - **AppBar**: Must contain a Cart icon with a **badge** showing the current number of items in the cart.
 
@@ -50,11 +52,14 @@ The application consists of two main screens:
 **Functionality:**
 
 - Display **only** the products selected by the user.
+
 - **Quantity Controls**: Each item must allow the user to:
   - Increase quantity
   - Decrease quantity
   - Remove item completely
+
 - **Total Price**: Display the calculated total price at the bottom, updating automatically as items are modified.
+
 - **Checkout Button**: UI only (no API integration required).
 
 ---
